@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "First Post",
+      "body": "This is the first body post",
+      "publishedAt": "2021-03-18"
+    },
+    {
+      "id": "2",
+      "title": "Second Post",
+      "body": "This is the second body post",
+      "publishedAt": "10/03/2020"
+    },
+    {
+      "id": "3",
+      "title": "Third Post",
+      "body": "This is the Third body post",
+      "publishedAt": "10/03/2020"
+    },
+    {
+      "title": "Post Four",
+      "body": "Create a post trial",
+      "publishedAt": "2021-03-19",
+      "id": "kqPdhIk"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Tonnie ",
+      "email": "text@gmail.com"
+    },
+    {
+      "name": "Tony ",
+      "email": "text@gmail.com",
+      "id": "Qfq2TjJ"
+    }
+  ]
+}
